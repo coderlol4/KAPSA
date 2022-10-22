@@ -6,7 +6,7 @@ Bored of X-SAMPA? Try KAPSA!
 
 KAPSA is an ASCII encoding of IPA created in 2022 by Calculovo#5796. It was made due to dissatisfaction with X-SAMPA. 
 
-X-SAMPA is based on a European transcription system, SAMPA before becoming international. SAMPA's smaller scope meant it didn't need to use digraphs which gives X-SAMPA weird holdover choices such as capital Q for ɒ. Secondly, it uses characters too liberally as seemingly random and sometimes with questionable logic. Even ignoring SAMPA's  holdovers, you still have stuff like an acute (´) for ʲ, a holdover from a different system, 5 for l̴ because 5 was just leftover, despite being the other different ways to write it by simply using a diacritic, >\ and <\  for ʢ and ʡ, literally all diacritic. Three, it is confusing at times. Four, it looks ugly. This one is a bit more personal, but look at this:
+X-SAMPA is based on a European transcription system, SAMPA before becoming international. SAMPA's smaller scope meant it didn't need to use digraphs which gives X-SAMPA weird holdover choices such as capital Q for ɒ. Secondly, it uses characters too liberally as seemingly random and sometimes with questionable logic. Even ignoring SAMPA's  holdovers, you still have stuff like an acute (´) for ʲ, a holdover from a different system, 5 for l̴ because 5 was just leftover, despite being threee other different ways to write it by simply using a diacritic, >\ and <\  for ʢ and ʡ, literally all diacritic. Three, it is confusing at times. Four, it looks ugly. This one is a bit more personal, but look at this:
 
      
 `X-SAMPA: [Eks-\s"{mp_h@ I"z-\64}l'i "hId'i@s]`
